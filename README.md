@@ -19,7 +19,7 @@ This Tampermonkey script grabs account data from [Taming.io](https://taming.io) 
 
 ## 📷 Screenshot (Discord Webhook Output)
 
-![Webhook Example](preview-taming.png) <!-- preview -->
+!![Webhook Example](preview-taming.png) <!-- preview -->
 
 ## ⚙️ How to Use
 
