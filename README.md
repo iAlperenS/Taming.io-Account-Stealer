@@ -1,5 +1,7 @@
 # 🐺 Taming.io Account Tracker / Stealer
 
+> ⭐ Star this repo if you find it helpful!
+
 > ⚠️ **Disclaimer:** This script is for **educational**, **analytical**, and **security research** purposes only. The author does **not** encourage unauthorized access, abuse, or any malicious use of this tool.
 
 This Tampermonkey script grabs account data from [Taming.io](https://taming.io) and sends it to a Discord Webhook in a clean, formatted embed. It collects various useful fields like mail, token, stats, tames, friend list, party data, and more.
